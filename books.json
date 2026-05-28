@@ -1,0 +1,23 @@
+[
+    { 
+        "author": "Saint Cyril of Alexandria", 
+        "books": [
+            { "title": "Scholia on the Incarnation", "link": "https://drive.google.com/file/d/link1/preview" },
+            { "title": "Second Letter to Succensus", "link": "https://drive.google.com/file/d/link2/preview" }
+        ] 
+    },
+    { 
+        "author": "Saint Basil the Great", 
+        "books": [
+            { "title": "Letter 236 (To Amphilochius)", "link": "https://drive.google.com/file/d/link3/preview" },
+            { "title": "On the Holy Spirit", "link": "https://drive.google.com/file/d/link4/preview" }
+        ] 
+    },
+    { 
+        "author": "Origen of Alexandria", 
+        "books": [
+            { "title": "Contra Celsum (Book VIII)", "link": "https://drive.google.com/file/d/link5/preview" },
+            { "title": "De Principiis", "link": "https://drive.google.com/file/d/link6/preview" }
+        ] 
+    }
+]
